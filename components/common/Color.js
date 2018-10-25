@@ -1,0 +1,16 @@
+export default {
+  white: "#ffffff",
+  black: "#000000",
+  primary:"#20C0E2",
+  greyDot:"#DBDBDB",
+  fbBg:"#415EAE",
+  grey:"#727272",
+  greyBg:"#F1F1F1",
+  videoIcon:"#5B5B5B",
+  greyIcon:"#BDBDBD",
+  greyTxt:"#A5A5A5",
+  activeBtn:"#8792BE",
+  popupBg:"#E2E2E2",
+  innerBg:"#F7F7F7",
+  borderColor:"#E6E6E6",
+}
